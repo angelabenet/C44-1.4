@@ -281,12 +281,10 @@ class Game {
         "&emsp;" +
         players[1].score;
 
-      leader2 =
-        players[0].rank +
-        "&emsp;" +
-        players[0].name +
-        "&emsp;" +
-        players[0].score;
+      
+     //  COMPLETE COM AS COORDENADAS CERTAS  
+      
+      
     }
 
     this.leader1.html(leader1);
